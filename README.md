@@ -1,3 +1,3 @@
-# Projects
+# HIRS
 
-I have uploaded the code that i have done for my projects in this repository
+HIRS is the FPS Game that i have made in Unreal Engine 4. I have uploaded code that i have done in this project.
